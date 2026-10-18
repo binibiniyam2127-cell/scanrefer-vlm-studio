@@ -43,5 +43,65 @@
       0.15,
       0.35
     ]
+  },
+  {
+    "scene_id": "scene_custom_room",
+    "object_id": "0",
+    "object_name": "chair",
+    "ann_id": "0",
+    "description": "the dark chair placed beside the wooden table",
+    "bbox": [
+      -0.85,
+      0.5,
+      -0.35,
+      0.55,
+      0.55,
+      0.85
+    ]
+  },
+  {
+    "scene_id": "scene_custom_room",
+    "object_id": "1",
+    "object_name": "cup",
+    "ann_id": "1",
+    "description": "a small blue cup sitting on top of the wooden table",
+    "bbox": [
+      0.2,
+      0.5,
+      -0.06,
+      0.16,
+      0.16,
+      0.15
+    ]
+  },
+  {
+    "scene_id": "scene_custom_room",
+    "object_id": "2",
+    "object_name": "table",
+    "ann_id": "2",
+    "description": "a large rectangular wooden table in the center with a cup on it",
+    "bbox": [
+      0.0,
+      0.5,
+      -0.45,
+      1.35,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "scene_id": "scene_custom_room",
+    "object_id": "3",
+    "object_name": "tv",
+    "ann_id": "3",
+    "description": "a large flat screen tv mounted against the wall",
+    "bbox": [
+      0.0,
+      2.34,
+      0.55,
+      1.42,
+      0.14,
+      0.78
+    ]
   }
 ]
