@@ -103,5 +103,95 @@
       0.14,
       0.78
     ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "0",
+    "object_name": "table",
+    "ann_id": "0",
+    "description": "a rectangular wooden table in the center with a laptop, cup, and water bottle",
+    "bbox": [
+      0.0,
+      1.2,
+      -0.4,
+      1.85,
+      0.95,
+      0.72
+    ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "1",
+    "object_name": "pc",
+    "ann_id": "1",
+    "description": "the open laptop computer sitting on the left side of the table",
+    "bbox": [
+      -0.35,
+      1.25,
+      0.05,
+      0.42,
+      0.35,
+      0.28
+    ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "2",
+    "object_name": "cup",
+    "ann_id": "2",
+    "description": "a red ceramic cup placed on top of the wooden table",
+    "bbox": [
+      0.3,
+      1.15,
+      -0.01,
+      0.15,
+      0.15,
+      0.14
+    ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "3",
+    "object_name": "water",
+    "ann_id": "3",
+    "description": "a tall water bottle standing on the right side of the table",
+    "bbox": [
+      0.6,
+      1.35,
+      0.08,
+      0.14,
+      0.14,
+      0.3
+    ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "4",
+    "object_name": "sofa",
+    "ann_id": "4",
+    "description": "a large comfortable sofa sitting in front of the table",
+    "bbox": [
+      0.0,
+      -0.6,
+      -0.3,
+      2.25,
+      1.05,
+      0.88
+    ]
+  },
+  {
+    "scene_id": "scene_living_workspace",
+    "object_id": "5",
+    "object_name": "tv",
+    "ann_id": "5",
+    "description": "a massive 75 inch flat screen television mounted high on the wall",
+    "bbox": [
+      0.0,
+      3.14,
+      0.9,
+      1.95,
+      0.14,
+      1.1
+    ]
   }
 ]
