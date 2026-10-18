@@ -1,0 +1,47 @@
+[
+  {
+    "scene_id": "scene0000_00",
+    "object_id": "0",
+    "object_name": "chair",
+    "ann_id": "0",
+    "description": "the black office chair located near the wooden desk",
+    "bbox": [
+      -0.8,
+      1.2,
+      -0.2,
+      0.6,
+      0.6,
+      0.9
+    ]
+  },
+  {
+    "scene_id": "scene0000_00",
+    "object_id": "1",
+    "object_name": "desk",
+    "ann_id": "1",
+    "description": "a large brown rectangular desk in the corner with a computer monitor",
+    "bbox": [
+      -1.0,
+      1.5,
+      -0.1,
+      1.2,
+      0.8,
+      0.75
+    ]
+  },
+  {
+    "scene_id": "scene0000_00",
+    "object_id": "2",
+    "object_name": "monitor",
+    "ann_id": "2",
+    "description": "the flat computer screen placed on top of the desk",
+    "bbox": [
+      -0.9,
+      1.4,
+      0.45,
+      0.5,
+      0.15,
+      0.35
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "scene_id": "scene0001_00",
+    "object_id": "0",
+    "object_name": "sofa",
+    "ann_id": "0",
+    "description": "a wide gray comfortable sofa sitting in front of the coffee table",
+    "bbox": [
+      0.5,
+      -0.6,
+      -0.3,
+      1.8,
+      0.9,
+      0.8
+    ]
+  },
+  {
+    "scene_id": "scene0001_00",
+    "object_id": "1",
+    "object_name": "table",
+    "ann_id": "1",
+    "description": "a small wooden coffee table placed in front of the sofa",
+    "bbox": [
+      0.5,
+      0.4,
+      -0.5,
+      0.9,
+      0.5,
+      0.4
+    ]
+  }
+]

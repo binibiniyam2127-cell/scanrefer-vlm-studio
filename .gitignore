@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints and Large binaries
+*.pth
+*.pt
+*.bin
+
+# Output visualizations and logs
+visualizations/*.html
+*.log
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large third-party cloned reference repos
+data/scanrefer/temp_scanrefer/
+
+
